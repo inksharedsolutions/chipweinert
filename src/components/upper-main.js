@@ -13,34 +13,35 @@ const UpperMain =()=>{
                     <p className="middle-params">
                     Think of it as Philip Marlowe meets Fritz the Cat.
                     </p>
+                    <table align = "center">
+                        <tr>
+                            <td>
+                                    <img src={Book2}/>
+                                    <strong><h2>A CURIOUS CAT IN A DEAD DOGS TOWN</h2></strong>
+                                    <span></span>
+                                    <br/>
+                                    <button>
+                                        <Link 
+                                            to={'/about-the-book/#johnny_taggett'}>
+                                                Read More
+                                        </Link>
+                                    </button>
+                            </td>
+                            <td>
+                                    <img src={Book1}/>
+                                    <h2>A CURIOUS CAT WAGS A FISHY TALE</h2>
+                                    <span></span>
+                                    <br/>
 
-                    <div className="grid-two-columns" id="wrapper-two-books">
-                        <div className="book-wraps">
-                            <img src={Book2}/>
-                            <h5>A CURIOUS CAT IN A DEAD DOGS TOWN</h5>
-                            <span>TROLOGY</span>
-                            <button>
-                                <Link 
-                                    to={'/about-the-book/#johnny_taggett'}>
-                                        Read More
-                                </Link>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div className="grid-two-columns" id="wrapper-two-books">
-                        <div className="book-wraps">
-                            <img src={Book1}/>
-                            <h5>A CURIOUS CAT WAGS A FISHY TALE</h5>
-                            <span></span>
-                            <button>
-                                <Link 
-                                    to={'/about-the-book/#johnny_taggett'}>
-                                        Read More
-                                </Link>
-                            </button>
-                        </div>
-                    </div>
+                                    <button>
+                                        <Link 
+                                            to={'/about-the-book/#johnny_taggett'}>
+                                                Read More
+                                        </Link>
+                                    </button>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
             </section>
         </>
