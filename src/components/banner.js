@@ -13,10 +13,10 @@ const Banner = ()=>{
                             <div className="banner-content-wrapper">
                                 <h1>
                                     <span>In a parallel universe </span> 
-                                    <span>where humans evolved not only from apes.</span>
+                                    <span>where humans evolved not only from apes</span>
                                 </h1>
                                 <p>
-                                but also cats, dogs, bears, weasels, and other animals, Duke Hazzard, a feline private eye, is hired to find the murderer of a prominent canine. It’s a tongue-in-cheek, fun murder mystery. Think of it as Philip Marlowe meets Fritz the Cat. 
+                                but also cats, dogs, bears, weasels, and other animals, Duke Hazzard, a feline private eye, is hired to find the murderer of a prominent canine. It’s a tongue-in-cheek, fun murder mystery. 
                                 </p>
                                 <button>
                                     <Link to="/about-the-book">

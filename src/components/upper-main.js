@@ -11,7 +11,7 @@ const UpperMain =()=>{
                     <h1>Books</h1>
                     
                     <p className="middle-params">
-                    Think of it as Philip Marlowe meets Fritz the Cat.
+                    "Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts,”
                     </p>
                     <table align = "center">
                         <tr>
@@ -42,6 +42,7 @@ const UpperMain =()=>{
                             </td>
                         </tr>
                     </table>
+                    <br/><br/>
                 </div>
             </section>
         </>

@@ -36,7 +36,7 @@ const ATB = (props)=>{
 
                             <BookInfo  
                                 data={{
-                                    title:`A CURIOUS CAT IN A DEAD DOGS TOWN`,
+                                    title:`A CURIOUS CAT IN A DEAD DOG'S TOWN`,
                                     spanTitle: "",
                                     imgSrc: Book2,
                                     id:'johnny_taggett',
@@ -57,7 +57,7 @@ const ATB = (props)=>{
                                     },
                                     paperback:{
                                         amazon:'https://www.amazon.com/dp/1643458922/ref=sr_1_1?keywords=9781643458922&qid=1582040528&sr=8-1',
-                                        barnes:'https://www.barnesandnoble.com/w/the-twins-of-fairland-sb-white/1136287303?ean=9781643458687',
+                                        barnes:'https://www.barnesandnoble.com/w/a-curious-cat-in-a-dead-dogs-town-chip-weinert/1127202956?ean=9781643458922',
                                         booksamillion:'https://www.booksamillion.com/p/Curious-Cat-Dead-Dogs-Town/Chip-Weinert/9781643458922?id=8043859463603&_ga=2.84711513.1190744042.1604385963-131468970.1604385963#',
                                     },
                                     // screenPlay: true
@@ -86,10 +86,10 @@ const ATB = (props)=>{
                                     ebooks:{
                                         stratton : 'https://www.stratton-press.com/books/a-curious-cat-wags-a-fishy-tale/',
                                         barnes: 'https://www.barnesandnoble.com/w/a-curious-cat-wags-a-fishy-tale-chip-weinert/1136937374?ean=9781648950018',
-                                        amazon :'https://www.amazon.com/Thief-Night-Joseph-Bartley-Haltom-ebook/dp/B084Q64SN2/ref=sr_1_1?keywords=9781643458885&qid=1581618901&sr=8-1', 
+                                        amazon :'https://www.amazon.com/Curious-Cat-Wags-Fishy-Tale-ebook/dp/B087QVJVBP/ref=sr_1_1?dchild=1&keywords=9781648950018&qid=1588791012&sr=8-1', 
                                     },
                                     paperback:{
-                                        amazon:'https://www.amazon.com/dp/1643458876/ref=sr_1_1?keywords=9781643458878&qid=1582040741&sr=8-1',
+                                        amazon:'https://www.amazon.com/Curious-Cat-Wags-Fishy-Tale/dp/1648950000/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1588791031&sr=8-1',
                                         barnes:'https://www.barnesandnoble.com/w/a-curious-cat-wags-a-fishy-tale-chip-weinert/1136937374?ean=9781648950001',
                                         booksamillion:'https://www.booksamillion.com/p/Curious-Cat-Wags-Fishy-Tale/Chip-Weinert/9781648950001?id=8043859463603',
                                     },
