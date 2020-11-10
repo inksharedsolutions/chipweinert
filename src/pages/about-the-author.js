@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/img/author_img.png'
+import AuthorImg from '../../static/img/dummy.png'
 
 
 /*Slick*/
@@ -14,13 +14,6 @@ import "slick-carousel/slick/slick-theme.css";
 /* 
     Author Images
 */
-
-import Img1 from '../../static/author/1.jpeg'
-import Img2 from '../../static/author/2.jpeg'
-import Img3 from '../../static/author/3.jpeg'
-import Img4 from '../../static/author/4.jpeg'
-import Img5 from '../../static/author/5.jpeg'
-import Img6 from '../../static/author/6.jpeg'
 
 const ATB = (props)=>{
 
@@ -60,7 +53,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts
+                                "Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts,”
                                 </h4>
                                 
                                 <span className="ata-span-fx">author quote</span>
@@ -71,7 +64,7 @@ const ATB = (props)=>{
                         <br/>
                         <br/>
                             <p>
-                            Chip Weinert is a former newspaper and magazine writer, editor, and associate publisher as well as professional windsurfer. He lives (and surfs, windsurfs, fishes, and bikes) on Oregon's Rogue Coast with two canines who think he's crazy. Stay tuned for his next book in the Curious Cat series, A Curious Cat Wags a Fishy Tale.
+                            Chip Weinert grew up in Wisconsin before getting his degree in Communication from Utah State University. After college, he moved to Miami and worked writing ad copy for mail order catalogs. He left Miami and headed back out west, this time landing in Hood River, Oregon after a couple years in Seattle. In Hood River he worked for the Hood River News before becoming Managing Editor/Associate Publisher of Wind Tracks magazine, a four-color glossy windsurfing publication, based out of the southern Oregon coast. When the magazine was sold, Chip stayed on the south coast where these days he spends his time windsurfing, surfing, kayaking, fishing, cycling and writing about it. In between the writing gigs, he’s worked in the non-profit industry as manager and development director. A widower, he lives with two adorable pound puppies – rescue dogs – that keep him on his toes. 
                             </p>
 
                             <p>

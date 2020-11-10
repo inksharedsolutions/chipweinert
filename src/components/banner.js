@@ -12,11 +12,11 @@ const Banner = ()=>{
                         <div className="left-col">
                             <div className="banner-content-wrapper">
                                 <h1>
-                                    <span>Think of it as Philip Marlowe</span> 
-                                    <span>meets Fritz the Cat.</span>
+                                    <span>In a parallel universe </span> 
+                                    <span>where humans evolved not only from apes.</span>
                                 </h1>
                                 <p>
-                                    Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts,
+                                but also cats, dogs, bears, weasels, and other animals, Duke Hazzard, a feline private eye, is hired to find the murderer of a prominent canine. It’s a tongue-in-cheek, fun murder mystery. Think of it as Philip Marlowe meets Fritz the Cat. 
                                 </p>
                                 <button>
                                     <Link to="/about-the-book">

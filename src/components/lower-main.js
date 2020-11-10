@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import AuthorImg from '../../static/img/author_img.png'
+import AuthorImg from '../../static/img/dummy.png'
 
 const LowerMain = ()=>{
     return(
@@ -14,7 +14,7 @@ const LowerMain = ()=>{
 
                         <div className="wrapper-auth-content">
                             <p>
-                                Chip Weinert is a former newspaper and magazine writer, editor, and associate publisher as well as professional windsurfer.
+                                Chip Weinert grew up in Wisconsin before getting his degree in Communication from Utah State University. After college, he moved to Miami and worked writing ad copy for mail order catalogs. He left Miami and headed back out west, this time landing in Hood River, Oregon after a couple years in Seattle.
                             </p>
 
                             <h1>Chip Weinert</h1>

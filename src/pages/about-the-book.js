@@ -13,7 +13,7 @@ const ATB = (props)=>{
     const slug =(props.location.href);
     
 	const disqusConfig = {
-	  shortname: 'sb-white',
+	  shortname: 'chip-weinert',
 	  config: { identifier:  12, slug}
     }
     
@@ -38,7 +38,7 @@ const ATB = (props)=>{
                                 data={{
                                     title:`A CURIOUS CAT IN A DEAD DOGS TOWN`,
                                     spanTitle: "",
-                                    imgSrc: Book1,
+                                    imgSrc: Book2,
                                     id:'johnny_taggett',
                                     content:
                                     `<p>In a parallel universe where humans evolved not only from apes but also cats, dogs, bears, weasels, and other animals, Duke Hazzard, a feline private eye, is hired to find the murderer of a prominent canine. It’s a tongue-in-cheek, fun murder mystery. Think of it as Philip Marlowe meets Fritz the Cat. </p>
@@ -67,7 +67,7 @@ const ATB = (props)=>{
                                 data={{
                                     title:`A CURIOUS CAT WAGS A FISHY TALE`,
                                     spanTitle: "",
-                                    imgSrc: Book2,
+                                    imgSrc: Book1,
                                     id:'johnny_taggett',
                                     content:
                                     `<p></p>Book 1 – The Hidden Kingdom</p>

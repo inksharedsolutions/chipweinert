@@ -11,8 +11,8 @@ const Footer = ()=>{
                 <div className="container-gt" id="footer-info">
                     <h1>CW</h1>
                     <p>
-                        Chip Weinert loves to hear from readers. You can reach her via email. 
-                        Feel free to send questions about writing, her works, interviews 
+                        Chip Weinert loves to hear from readers. You can reach him via email. 
+                        Feel free to send questions about writing, him works, interviews 
                         and other publicity matters.
                     </p> 
 
