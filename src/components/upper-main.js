@@ -16,12 +16,12 @@ const UpperMain =()=>{
                         <tr>
                             <td>
                                     <img src={Book2}/>
-                                    <h1 className="bookTitle">A CURIOUS CAT IN A DEAD DOGS TOWN</h1>
+                                    <h1 className="bookTitle">A CURIOUS CAT IN A DEAD DOG'S TOWN</h1>
                                     <span></span>
                                     <br/>
                                     <button>
                                         <Link 
-                                            to={'/about-the-book/'}>
+                                            to={'/about-the-book/#johnny_taggett'}>
                                                 Read More
                                         </Link>
                                     </button>
@@ -34,7 +34,7 @@ const UpperMain =()=>{
 
                                     <button>
                                         <Link 
-                                            to={'/about-the-book/'}>
+                                            to={'/about-the-book/#johnny_taggett2'}>
                                                 Read More
                                         </Link>
                                     </button>
