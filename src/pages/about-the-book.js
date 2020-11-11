@@ -70,17 +70,11 @@ const ATB = (props)=>{
                                     imgSrc: Book1,
                                     id:'johnny_taggett',
                                     content:
-                                    `<p></p>Book 1 – The Hidden Kingdom</p>
+                                    `<p>
+                                    In a parallel universe where humans evolved not only from apes, but from dogs, cats, bears, otters, and seals, to name a few, Matthew “Duke” Hazard is hired to solve a murder. Duke discovers, with the help from a friendly band of river otters, that a rogue gang of seals are stealing all the salmon and trout from the Beaver Butt River and selling them on the black market to a cartel of ruthless muskrats for use in their slave-labor lutefisk factories. Duke, a feline, who, like most cats, would rather curl into a ball in that sunny spot on the couch and take a nap, ends up being harassed—as well as helped—by the local government to expose a case of corruption that may have led to murder! The action takes place on the water and on the shores of the wild and scenic Beaver Butt River, which flows between the two towns of CatsCamp and Dogstown before emptying into the ocean. We learn about the fish and the fishing that are a major factor in the lives of both towns both commercially and recreationally.
+                                    </p>
                                     <p>
-                                    In The Hidden Kingdom, Tre and Skylin, twins separated at birth, are reunited. As they get to know each other, they discover an ancient magic hidden for years. They team up to protect the hidden kingdom of Fairland alongside their unique animal guardians. When they are challenged by a forgotten enemy with dark powers, they must trust and depend on each other. Tre and Skylin are guided on their journey into unknown territory by Mallrok, a mystic shaman. The twins may look alike, but are very different in other ways. Together they complete each other as the Twins of Fairland. 
-                                    </p><p>
-                                    Book 2 – Revenge of the Spirit Riders
-                                    </p><p>
-                                    In Revenge of the Spirit Riders, the magic continues when Tre discovers an ancient curse placed on the lineage of Currin. Queen Laurel, Tre and Skylin’s mother, is the last of the line of queens of Currin, and Fairland is threatened by the dark spirit riders of Lothan. Tre and Skylin must lead the people to a new land and escape the destruction of Fairland. 
-                                    </p><p>
-                                    Book 3 – The Sword of Justice
-                                    </p><p>
-                                    Escaping from the coming threat of Saxon invaders, the children of Tre and Skylin must ban together to survive and find a new home. Merlin, Tre’s son, and Nav, Skylin’s son, must lead the small band of survivors to safety. Once settled in their new home, Merlin must keep his oath to his father and leaves to join Arthur.  Now armed with The Sword of Justice, Arthur leads the fight against the Saxon army. 
+                                    Along the way, we meet cast of wild creatures: Leo Phieu, an old one-eyed, fish-smelling Burmese who has inhaled his share of gasoline, paint, and fiberglass fumes over the years. We also meet his niece Faye, who has a crush on Duke that Duke does not return. And then there’s Butch and Ginger Larson, owners of the feline weekly paper, the CatsCamp Distorter. There are otters, seals, and even a cameo from a pair of fly-fishing frogs! Plus, a few characters making an encore appearance from the first book in the series, A Curious Cat in a Dead Dog’s Town, such as Duke’s buddy Gibson, Police Captain Ursalik, and Duke’s mother, who thinks Duke is lazy even by a cat’s standards.
                                     </p>`,
 
                                     ebooks:{

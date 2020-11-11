@@ -11,31 +11,30 @@ const UpperMain =()=>{
                     <h1>Books</h1>
                     
                     <p className="middle-params">
-                    "Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts,”
                     </p>
                     <table align = "center">
                         <tr>
                             <td>
                                     <img src={Book2}/>
-                                    <strong><h2>A CURIOUS CAT IN A DEAD DOGS TOWN</h2></strong>
+                                    <h1 className="bookTitle">A CURIOUS CAT IN A DEAD DOGS TOWN</h1>
                                     <span></span>
                                     <br/>
                                     <button>
                                         <Link 
-                                            to={'/about-the-book/#johnny_taggett'}>
+                                            to={'/about-the-book/'}>
                                                 Read More
                                         </Link>
                                     </button>
                             </td>
                             <td>
                                     <img src={Book1}/>
-                                    <h2>A CURIOUS CAT WAGS A FISHY TALE</h2>
+                                    <h1 className="bookTitle">A CURIOUS CAT WAGS A FISHY TALE</h1>
                                     <span></span>
                                     <br/>
 
                                     <button>
                                         <Link 
-                                            to={'/about-the-book/#johnny_taggett'}>
+                                            to={'/about-the-book/'}>
                                                 Read More
                                         </Link>
                                     </button>

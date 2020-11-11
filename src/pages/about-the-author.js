@@ -53,7 +53,7 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                "Hey you big old snow leopard, come here, and let me buy you a drink. I’ve been looking for someone just your size.”
+                                "Hey you big old snow leopard, come on over here, and let me buy you a drink. I’ve been looking for someone just your size and smarts.” 
                                 </h4>
                                 
                                 <span className="ata-span-fx"></span>
