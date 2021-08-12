@@ -32,6 +32,38 @@
     }
 }
 
+
+/*Book Trailer Css*/
+.book-trailer {
+    .grid-child-content {
+        h1 {
+            color: #000 !important;
+            font-size: 4em;
+            line-height: 1;
+            font-weight: 700;
+
+            span {
+                display: block;
+            }
+        }
+
+        h5 {
+            text-transform: uppercase;
+            margin-bottom: 22px;
+            letter-spacing: 8px;
+            font-weight: 100;
+            color: rgb(216, 120, 100);
+        }
+    }
+
+    #trailer-body {
+        padding: 5%;
+        background: #eeeeee4a;
+        gap: 27px;
+    }
+}
+
+
 .upper-main{
     
     padding: 5% 0;

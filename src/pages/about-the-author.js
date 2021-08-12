@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
-import AuthorImg from '../../static/img/dummy.png'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 
 /*Slick*/

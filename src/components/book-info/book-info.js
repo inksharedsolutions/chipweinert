@@ -1,13 +1,13 @@
 import React, {useState, useEffect} from 'react'
 import { Modal, Button } from 'antd';
 import 'antd/dist/antd.css';
-import { Worker } from '@phuocng/react-pdf-viewer';
+// import { Worker } from '@phuocng/react-pdf-viewer';
 
 //PDF viewer
-import Viewer from '@phuocng/react-pdf-viewer';
-import ScreenPlay from '../../../static/pdf/screen_play.pdf'
+// import Viewer from '@phuocng/react-pdf-viewer';
+// import ScreenPlay from '../../../static/pdf/screen_play.pdf'
 // Import the CSS
-import '@phuocng/react-pdf-viewer/cjs/react-pdf-viewer.css';
+// import '@phuocng/react-pdf-viewer/cjs/react-pdf-viewer.css';
 import { FundViewOutlined  } from '@ant-design/icons';
 
 const BookInfo = (props)=>{
@@ -96,7 +96,7 @@ const BookInfo = (props)=>{
                                         onOk={()=>handleOk()}
                                         onCancel={()=>handleCancel()}
                                         >
-
+{/* 
                                         <Worker 
                                             workerUrl="https://unpkg.com/pdfjs-dist@2.4.456/build/pdf.worker.min.js">
                                             <div
@@ -108,7 +108,7 @@ const BookInfo = (props)=>{
                                                     fileUrl={ScreenPlay} 
                                                 />
                                             </div>
-                                        </Worker>
+                                        </Worker> */}
                                     </Modal>
                                 </nav>
                                 </>

@@ -8,15 +8,17 @@ import UpperMain from "../components/upper-main"
 import MidMain from "../components/mid-main"
 import LowerMain from "../components/lower-main"
 import Newsletter from "../components/newsletter"
+import Videos from "../components/videos"
 
 const IndexPage = (props) => (
   <Layout>
-      <Nav pathExt={props.path}/>
-      <Banner/>
-      <UpperMain/>
-      <MidMain/>
-      <LowerMain/>
-      <Newsletter/>
+    <Nav pathExt={props.path} />
+    <Banner />
+    <UpperMain />
+    <Videos/>
+    <LowerMain />
+    <MidMain />
+    <Newsletter />
   </Layout>
 )
 
