@@ -9,9 +9,11 @@ import MidMain from "../components/mid-main"
 import LowerMain from "../components/lower-main"
 import Newsletter from "../components/newsletter"
 import Videos from "../components/videos"
+import {Helmet} from "react-helmet"
 
 const IndexPage = (props) => (
   <Layout>
+    <Helmet title="Home | Chip Weinert" />
     <Nav pathExt={props.path} />
     <Banner />
     <UpperMain />

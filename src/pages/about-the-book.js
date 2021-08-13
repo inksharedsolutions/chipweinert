@@ -6,6 +6,7 @@ import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../images/book_front_1.png'
 import Book2 from '../images/book_front_2.png'
+import {Helmet} from "react-helmet"
 
 const ATB = (props)=>{
 
@@ -22,6 +23,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
+                <Helmet title="About the Book | Chip Weinert" />
 		 		<Nav pathExt={props.path}/>
 		 		<Banner
                     spanFirst={`About The`}

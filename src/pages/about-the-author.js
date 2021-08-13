@@ -10,6 +10,7 @@ import Slider from "react-slick";
 // Import css files
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import {Helmet} from "react-helmet"
 
 /* 
     Author Images
@@ -38,6 +39,7 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
+                <Helmet title="About the Author | Chip Weinert" />
 		 		<Nav pathExt={props.path}/>
                  <Banner 
                  spanFirst={`About The`}

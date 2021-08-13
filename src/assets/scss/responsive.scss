@@ -82,6 +82,16 @@
 
 @media screen and (max-width: 620px){
 
+    .bookTitle{
+        font-size: 17px !important;
+    }
+
+    .banner-content-wrapper{
+        h1{
+            font-size: 1.3em !important;
+        }
+    }
+
     .banner-section{
         height: 90vh !important;
     }
@@ -169,7 +179,7 @@
     }
 
     .author-section{
-        margin: 3.2em 0;
+        margin: 2.2em 0;
     }
 
 
